@@ -1,0 +1,16 @@
+# Wakib bindings
+"\ej": backward-char
+"\el": forward-char
+"\eu": backward-word
+"\eo": forward-word
+"\eU": beginning-of-line
+"\eO": end-of-line
+"\ei": previous-history
+"\ek": next-history
+"\ed": backward-delete-char
+"\ef": delete-char
+"\ee": backward-kill-word
+"\er": kill-word
+"\eE": backward-kill-line
+"\eR": kill-line
+"\ew": kill-whole-line
